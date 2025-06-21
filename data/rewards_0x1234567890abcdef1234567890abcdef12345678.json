@@ -1,0 +1,16 @@
+{
+  "walletAddress": "0x1234567890abcdef1234567890abcdef12345678",
+  "totalRewardsReceivedStETH": "75.2",
+  "rewardsBreakdown": [
+    {
+      "operatorAddress": "0xabcdefabcdefabcdefabcdefabcdefabcdef",
+      "amountStETH": "60.0",
+      "timestamps": [1678972800, 1679059200]
+    },
+    {
+      "operatorAddress": "0xbcdefabcdefabcdefabcdefabcdefabcdefab",
+      "amountStETH": "15.2",
+      "timestamps": [1679145600]
+    }
+  ]
+}

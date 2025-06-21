@@ -1,0 +1,15 @@
+{
+  "name": "restake-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+},
+  "dependencies": {
+    "axios": "^1.10.0",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "graphql-request": "^7.2.0",
+    "sqlite3": "^5.1.7"
+  }
+}

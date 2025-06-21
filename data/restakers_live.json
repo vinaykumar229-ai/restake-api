@@ -1,0 +1,16 @@
+[
+  {
+    "delegator": "0x1234567890abcdef1234567890abcdef12345678",
+    "amount": "100.5",
+    "operator": {
+      "id": "0xabcdefabcdefabcdefabcdefabcdefabcdef"
+    }
+  },
+  {
+    "delegator": "0x4567890abcdef1234567890abcdef1234567890",
+    "amount": "250",
+    "operator": {
+      "id": "0xbcdefabcdefabcdefabcdefabcdefabcdefab"
+    }
+  }
+]
